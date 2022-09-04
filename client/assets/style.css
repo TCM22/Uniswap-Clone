@@ -1,5 +1,5 @@
 body {
-  background-color: #2d222e;
+  background-color: #000000;
   position: relative;
   color: #fff;
 }
@@ -37,7 +37,7 @@ header h1 {
   border-radius: 50px;
   height: 350px;
   width: 500px;
-  background-color: #191b1f;
+  background-color: #790002;
   position: relative;
 }
 
